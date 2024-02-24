@@ -6,12 +6,12 @@
 Repository is for all my pixel arts. All arts is free to use.
 
 <h2>✨Contributors✨</h2>
-<table align=center>
+<table>
     <td align=center>
-    <a align=center href="https://github.com/Kokomichrzan"><img height=100px src="https://avatars.githubusercontent.com/u/62157770?v=4"></a>
-    <a href="https://github.com/Kokomichrzan"><div align=center>Kokomichrzan</div></a>
+    <a href="https://github.com/Daynlight"><img height=100px src="https://avatars.githubusercontent.com/u/62157770?v=4"></a>
+    <a href="https://github.com/Daynlight"><div align=center>Daynlight</div></a>
     <table align=center>
-      <td title="Arts">🌳</td>
+      <td title="Arts">🎄</td>
       <td title="Manage">💼</td>
     </table>
   </td>
